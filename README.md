@@ -35,8 +35,11 @@ gem  install pry
 
 ### Evidência de Teste ####
 1. Abrir a pasta C:\Projetos\buscalaboratorio
+
 2. Acessar a pasta screenshot C:\Projetos\buscalaboratorio\screenshots
+
 3. Visualizar as seguintes pastas
+
 test_failed (verificar evidência caso quebre a execução)
 
 test_passed (verificar evidência caso passe a execução)
