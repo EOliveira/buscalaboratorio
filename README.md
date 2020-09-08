@@ -10,12 +10,19 @@ Passo a Passo para instalação e execução dos testes
 3.Realizar todas as instalações
 
 4.Instalar as seguintes gems:
+
 gem  install selenium-webdriver
+
 gem  install site_prism
+
 gem  install capybara
+
 gem  install cucumber
+
 gem  install rspec
+
 gem  install pry
+
 5.Acessar o repositório (URL:
 
 6.Baixar o arquivo e descompactar no diretório
